@@ -1,4 +1,4 @@
-﻿Shader "Custom/AmbientDiffuse" {
+﻿Shader "Custom/Surface/Light" {
 	Properties {
 		_Diffuse ("Diffuse Color", Color) = (1, 1, 1, 1)
 		_Ambient ("Ambient Color", Color) = (1, 1, 1, 1)
