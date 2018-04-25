@@ -1,4 +1,4 @@
-﻿Shader "Custom/Chapter10/	Mirror" {
+﻿Shader "Custom/Chapter10/Mirror" {
 	Properties {
 		_MainTex ("Main Texture", 2D) = "white" {}
 	}
